@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/main/java/poker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/test/java/poker" vcs="Git" />
     <mapping directory="C:\Users\삼한골\IdeaProjects\passwordvalidator\pokerGame\intellij" vcs="Git" />
   </component>
 </project>
